@@ -1,3 +1,3 @@
 # todolist_ejs
 
-deployed app available here -> https://todolist--ejs.herokuapp.com/
+deployed app available here -> https://web-production-ee14.up.railway.app/
